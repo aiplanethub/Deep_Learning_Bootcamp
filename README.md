@@ -3,7 +3,7 @@ All the notebooks for DPhi Deep Learning Bootcamp can be found in this repositor
 
 ## Contents
 | Day   | Description                           | Slides | Notebook |
-| ----- |:-------------------------------------:| :-----:| :-------:|
+| :---: |:------------------------------------- | :-----:| :-------:|
 | 1     | Introduction to Deep Learning         | - | - |
 | 2     | Introduction to Neural Networks       | - | - |
 | 3     | Tensor Operations                     | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Tensor_Operations) |
