@@ -14,5 +14,5 @@ All the notebooks for DPhi Deep Learning Bootcamp can be found in this repositor
 | 9     | Optimizing a Neural Networks - Part 1 | - | - |
 | 10    | Optimizing Training of Neural Networks| - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Optimization_Techniques) |
 | 11    | Optimizing a Neural Networks - Part 2 | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Multi_Class_Classification) |
-| 12    | Computer Vision and OpenCV            | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Digital%20Image%20Processing) |
+| 12    | Computer Vision and OpenCV            | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/OpenCV) |
 | 13    | CNN Essentials                        | - | [Link](https://github.com/dphi-official/convolutional_neural_networks_essentials/tree/master/tutorials) |
